@@ -11,7 +11,9 @@ This course will help make the awareness and potential adoption of the Python pr
 - We'll use [Matplotlib](https://matplotlib.org/tutorials/introductory/sample_plots.html) to create visulizations. Like 
 ![sampleplot1](https://matplotlib.org/_images/sphx_glr_xkcd_001.png)
 
-or a [plot of Potomac River water quality standard exceedences](/TS_cs_a_DEM_01.png)
+or
+
+ ![Potomac Water Quality](/TS_cs_a_DEM_01.png)
 - We'll use [Jupyter notebooks](https://hub.mybinder.org/user/ipython-ipython-in-depth-jahkkd3y/notebooks/examples/Notebook/Notebook%20Basics.ipynb) to edit code and create an interactive environment for working with our data.
 
 
