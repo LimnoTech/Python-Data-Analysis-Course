@@ -35,7 +35,29 @@ We will go over Python basics in the course, but if you can spend some time fami
 - Where does Python fit in?
 - How does Python fit in with things that I already use and my clients and coworkers use?
 
-### Get running with Python (1 hour)
-- Does everybody have Anaconda installed? (Please do this before you come!)
-- Introduction to Jupyter Notebooks
+### Python on my computer (15 minutes)
+- Why do I need Anaconda?
+- Where is everything saved?
+- Do I have Anaconda installed propoerly? (Please do this before you come!)
+
+### Get running with Python (45 minutes) 
+- Introduction to Jupyter Notebooks and other editors
 - Python basics and using python for every day work
+
+### Extra References for Day 1
+- List of Python Editors
+- More tutorials
+- Working with environments and packages in Anaconda
+
+## Day 2
+
+### Using Pandas (30 minutes)
+- What is Pandas?
+- Pandas workflow: Excel/Text/Web/Raw data -> Pandas Dataframe -> Do "something" -> export to Excel/text/web/visualizaton/interactive
+- Common Pandas commands
+
+### Matplotlib and other visulizations (30 minutes)
+
+### Example Projects (30 minutes)
+
+### Extra References for Day 2
