@@ -38,6 +38,8 @@ We will go over Python basics in the course, but if you can spend some time fami
 ### Python on my computer (15 minutes)
 - Why do I need Anaconda?
 - Where is everything saved?
+- How do I run a script?
+- What is the shell?
 - Do I have Anaconda installed propoerly? (Please do this before you come!)
 
 ### Get running with Python (45 minutes) 
