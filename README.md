@@ -10,7 +10,7 @@ This course will help make the awareness and potential adoption of the Python pr
 
 - We'll use [Pandas](https://pandas.pydata.org/) to import data from a text file or Excel, do something to it, and export it to Excel, a visualization, an interactive screen, or possibly a website.
 - We'll use [Numpy and Scipy](https://www.scipy.org/index.html) to do perform basic statistical analyses on our data.
-- We'll use [Matplotlib](https://matplotlib.org/tutorials/introductory/sample_plots.html) to create visulizations. Like 
+- We'll use [Matplotlib](https://matplotlib.org/tutorials/introductory/sample_plots.html) to create visualizations. Like 
 ![sampleplot1](https://matplotlib.org/_images/sphx_glr_xkcd_001.png)
 
 or
