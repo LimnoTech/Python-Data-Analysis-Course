@@ -35,6 +35,10 @@ We will go over Python basics in the course, but if you can spend some time fami
 - Where does Python fit in?
 - How does Python fit in with things that I already use and my clients and coworkers use?
 
+### Python and other programming languages (10 minutes)
+- What can Python do?
+- What's special about Python?
+
 ### Python on my computer (15 minutes)
 - Why do I need Anaconda?
 - Where is everything saved?
