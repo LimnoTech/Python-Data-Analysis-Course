@@ -1,5 +1,5 @@
 ## Python for Data Analysis
-![LimnoTech](/assets/01_LimnoTech_official_logo_sm.png)
+![LimnoTech Logo](/assets/...png)
 
 Day 1
 
@@ -7,12 +7,16 @@ Data Analysis Landscape
 
 ---
 
-### Flux Design
+### Setting Expectations
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- We have 3 hours
+- I am not an expert
+- Learning and retaining requires additional work
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+### Who are we?
+
+
+---![Coding Experience](/assets/cht_coding_exp.PNG)
+
