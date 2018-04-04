@@ -1,5 +1,5 @@
 ## Python for Data Analysis
-![LimnoTech](/assets/01_LimnoTech_official_logo.png?size=auto 50%)
+![LimnoTech](/assets/01_LimnoTech_official_logo_sm.png)
 
 Day 1
 
