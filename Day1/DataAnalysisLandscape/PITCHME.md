@@ -35,3 +35,33 @@ Half have at least heard of Anaconda
 
 ---
 
+## Data Analysis Choices
+
+---
+
+## What tools do you currently use?
+
+---
+
+### Microsoft Excel
+
+- How and why do you use Excel?
+
+---
+Pros:
+- Everybody uses it
+- Powerful
+- User interface
+- Clients expect it
+- Easy to email
+
+Cons:
+- Repeatative tasks are repeatative
+- "Blank slate"
+- Slow
+- Size limits
+- Easy to miss something
+
+---
+
+
