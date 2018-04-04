@@ -1,5 +1,5 @@
 ## Python for Data Analysis
-![LimnoTech](https://github.com/LimnoTech/Python-Data-Analysis-Course/blob/master/assets/LimnoTech_Logo-e1486482918678.png)
+![LimnoTech](/assets/LimnoTech_Logo-e1486482918678.png)
 
 Day 1
 Data Analysis Landscape 
