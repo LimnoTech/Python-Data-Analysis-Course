@@ -18,5 +18,5 @@ Data Analysis Landscape
 ### Who are we?
 
 
----![Coding Experience](/assets/cht_coding_exp.PNG)
+---?image=/assets/cht_coding_exp.PNG
 
