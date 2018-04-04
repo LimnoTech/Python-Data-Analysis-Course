@@ -2,6 +2,7 @@
 ![LimnoTech](/assets/LimnoTech_Logo-e1486482918678.png)
 
 Day 1
+
 Data Analysis Landscape 
 
 ---
