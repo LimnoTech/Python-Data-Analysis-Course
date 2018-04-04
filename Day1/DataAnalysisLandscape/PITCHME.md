@@ -40,27 +40,36 @@ Half have at least heard of Anaconda
 ---
 
 ## What tools do you currently use?
+- Software
+- Programming Languages
+- 
 
 ---
 
-### Microsoft Excel
+### Excel
 
 - How and why do you use Excel?
 
 ---
+**Excel**
 Pros:
 - Everybody uses it
 - Powerful
 - User interface
 - Clients expect it
 - Easy to email
-
+---
+**Excel**
 Cons:
 - Repeatative tasks are repeatative
 - "Blank slate"
 - Slow
 - Size limits
 - Easy to miss something
+
+---
+
+## KEEP GOING
 
 ---
 

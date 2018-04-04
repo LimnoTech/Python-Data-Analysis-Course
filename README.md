@@ -35,15 +35,17 @@ We will go over Python basics in the course, but if you can spend some time fami
 - Where does Python fit in?
 - How does Python fit in with things that I already use and my clients and coworkers use?
 
-#### [Presenation](https://gitpitch.com/LimnoTech/Python-Data-Analysis-Course/master?p=Day1/DataAnalysisLandscape)
+#### [Presentation](https://gitpitch.com/LimnoTech/Python-Data-Analysis-Course/master?p=Day1/DataAnalysisLandscape)
 
 #### More Resources
+- <https://medium.freecodecamp.org/which-languages-should-you-learn-for-data-science-e806ba55a81f>
+- <https://qz.com/1063071/the-great-r-versus-python-for-data-science-debate/>
 
 ### Python and other programming languages (10 minutes)
 - What can Python do?
 - What's special about Python?
 
-#### [Presenation](https://gitpitch.com/LimnoTech/Python-Data-Analysis-Course/master?p=Day1/DataAnalysisLandscape)
+#### [Presentation](https://gitpitch.com/LimnoTech/Python-Data-Analysis-Course/master?p=Day1/Programming)
 
 #### More Resources
 
