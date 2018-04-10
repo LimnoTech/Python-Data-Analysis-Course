@@ -64,6 +64,7 @@ We will go over Python basics in the course, but if you can spend some time fami
 - List of Python Editors
 - More tutorials
 - Working with environments and packages in Anaconda
+https://learnxinyminutes.com/docs/python3/
 
 ## Day 2
 
