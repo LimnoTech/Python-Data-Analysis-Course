@@ -21,7 +21,7 @@ or
 
 ## Before the Course (should take 30 minutes - 1 hour)
 
-**Install the Python Anaconda distribution on your computer.** Use the instructions here
+**Install the Python Anaconda distribution on your computer.** Use the instructions [here](anacondainstall.md)
 
 We will go over Python basics in the course, but if you can spend some time familiarizing yourself before the course, we can get to the interesting stuff faster.
 
