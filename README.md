@@ -26,7 +26,13 @@ We will go over Python basics in the course, but if you can spend some time fami
 
 **Visit http://www.learnpython.org and go through the Learn the Basics section.** The "Classes and Objects" and "Modules and Packages" are extra credit and not as important as the other sections. You can try out code right in the browser and do not need any other software. In Python, you can write code in a file that you can reuse (a "script") or you can write it in a shell to get results immediately. This website shows you both. If you want to keep going, feel free! Do the "Data Science Tutorials" section if you really want a preview of what we'll be discussing.
 
+*
+*
+*
 -- Everything below is still under construction. Feel free to peek, but things may change --
+*
+*
+*
 
 ## Day 1
 
@@ -36,7 +42,7 @@ We will go over Python basics in the course, but if you can spend some time fami
 - Where does Python fit in?
 - How does Python fit in with things that I already use and my clients and coworkers use?
 
-#### [Presentation](https://gitpitch.com/LimnoTech/Python-Data-Analysis-Course/master?p=Day1/DataAnalysisLandscape)
+#### Presentation
 
 #### More Resources
 - <https://medium.freecodecamp.org/which-languages-should-you-learn-for-data-science-e806ba55a81f>
@@ -46,7 +52,7 @@ We will go over Python basics in the course, but if you can spend some time fami
 - What can Python do?
 - What's special about Python?
 
-#### [Presentation](https://gitpitch.com/LimnoTech/Python-Data-Analysis-Course/master?p=Day1/Programming)
+#### Presentation
 
 #### More Resources
 
