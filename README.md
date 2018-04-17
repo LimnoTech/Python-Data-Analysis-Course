@@ -3,7 +3,6 @@ April 23-24, 2018
 
 Syllabus and notes for LimnoTech's Python Data Analysis 3-hour course
 
--under construction-
 
 ## What to Expect
 This course will help make the awareness and potential adoption of the Python programming language and data analysis tools within Python as easy as possible for those at LimnoTech that are interested in using them, and build a community of Python users within LimnoTech. We will also share how Python is being used throughout our industry and at LimnoTech beyond data analysis. Following this course, all those that attend should have enough comfort and knowledge to put Python on the same playing field as Excel and other tools when deciding on a data analysis tool to use, or a data framework for a project.
@@ -25,7 +24,9 @@ or
 
 We will go over Python basics in the course, but if you can spend some time familiarizing yourself before the course, we can get to the interesting stuff faster.
 
-**Visit http://www.learnpython.org and go through the Learn the Basics section.** The "Classes and Objects" and "Modules and Packages" are extra credit and not as important as the other sections. You can try out code right in the browser and do not need any other software. In Python, you can write code in a file that you can reuse (a "script") or you can write it in a shell to get results immediately. This website shows you both. If you want to keep going, feel free!
+**Visit http://www.learnpython.org and go through the Learn the Basics section.** The "Classes and Objects" and "Modules and Packages" are extra credit and not as important as the other sections. You can try out code right in the browser and do not need any other software. In Python, you can write code in a file that you can reuse (a "script") or you can write it in a shell to get results immediately. This website shows you both. If you want to keep going, feel free! Do the "Data Science Tutorials" section if you really want a preview of what we'll be discussing.
+
+-- Everything below is still under construction. Feel free to peek, but things may change --
 
 ## Day 1
 
