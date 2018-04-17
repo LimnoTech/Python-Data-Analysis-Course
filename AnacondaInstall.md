@@ -2,7 +2,7 @@
 
 Even if you have Python installed on your computer, it is intended to be used with ArcGIS and other programs. In order to have a clean installation to use for data analysis and other purposes, we highly recommend downloading the Anaconda Python distribution. This includes Python and most of the libraries and modules that you will likely use. If you already have Anaconda Python installed, or if you know better, then you can skip this. 
 
-It is required that you have a working Python installation before we meet on April 23.
+It is required that you have a working Python installation before we meet on April 23. If you are bringing a laptop that is not your own, I suggest installing Anaconda on your desktop and use Remote Desktop Connection to connect to the desktop from your borrowed laptop.
 
 1. Download Anaconda distribution from <https://www.anaconda.com/download/> Use the Python 3.x distribution, unless you have some personal reason to download the Python 2.7 verson. We'll assume you have the Python 3.x version for the course.
 
