@@ -16,6 +16,7 @@ or
 
  ![Potomac Water Quality](/TS_cs_a_DEM_01.png)
 - We'll use [Jupyter notebooks](https://hub.mybinder.org/user/ipython-ipython-in-depth-jahkkd3y/notebooks/examples/Notebook/Notebook%20Basics.ipynb) to edit code and create an interactive environment for working with our data.
+- I use this stuff a lot, but I don't know everything. Please feel free to contribute!
 
 
 ## Before the Course (should take 30 minutes - 1 hour)
