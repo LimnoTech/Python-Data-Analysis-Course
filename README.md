@@ -21,7 +21,7 @@ or
 
 ## Before the Course (should take 30 minutes - 1 hour)
 
-**Install the Python Anaconda distribution on your computer.** Use the instructions [here](AnacondaInstall.md)
+**Install the Python Anaconda distribution on your computer.** Use the instructions [here](AnacondaInstall.md). If you already have Anaconda Python installed, then thumbs-up to you, skip to the next item!
 
 Based on the survey, many of you have Python experience and nearly all have some programming experience. If you need a quick intro to Python, **Visit http://www.learnpython.org and go through the Learn the Basics section.** The "Classes and Objects" and "Modules and Packages" are extra credit and not as important as the other sections. You can try out code right in the browser and do not need any other software. In Python, you can write code in a file that you can reuse (a "script") or you can write it in a shell to get results immediately. This website shows you both. If you want to keep going, feel free! Do the "Data Science Tutorials" section if you really want a preview of what we'll be discussing. **Please be familiar with these basics so we can move on to more exciting things!**
 
