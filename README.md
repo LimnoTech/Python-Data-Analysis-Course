@@ -26,6 +26,11 @@ or
 Based on the survey, many of you have Python experience and nearly all have some programming experience. If you need a quick intro to Python, **Visit http://www.learnpython.org and go through the Learn the Basics section.** The "Classes and Objects" and "Modules and Packages" are extra credit and not as important as the other sections. You can try out code right in the browser and do not need any other software. In Python, you can write code in a file that you can reuse (a "script") or you can write it in a shell to get results immediately. This website shows you both. If you want to keep going, feel free! Do the "Data Science Tutorials" section if you really want a preview of what we'll be discussing. **Please be familiar with these basics so we can move on to more exciting things!**
 
 <!---
+what is python
+what is pandas
+R/pyhon/SAS/Excel
+
+
 ## Day 1
 
 ### The data analysis landscape (30 minutes)
