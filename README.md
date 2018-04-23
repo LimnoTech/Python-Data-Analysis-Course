@@ -31,6 +31,8 @@ what is pandas
 R/pyhon/SAS/Excel
 
 
+=======
+>>>>>>> b028d451e46b358af2c8676b6ed9307f93255f87
 ## Day 1
 
 ### The data analysis landscape (30 minutes)
