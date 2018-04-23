@@ -25,6 +25,7 @@ or
 
 Based on the survey, many of you have Python experience and nearly all have some programming experience. If you need a quick intro to Python, **Visit http://www.learnpython.org and go through the Learn the Basics section.** The "Classes and Objects" and "Modules and Packages" are extra credit and not as important as the other sections. You can try out code right in the browser and do not need any other software. In Python, you can write code in a file that you can reuse (a "script") or you can write it in a shell to get results immediately. This website shows you both. If you want to keep going, feel free! Do the "Data Science Tutorials" section if you really want a preview of what we'll be discussing. **Please be familiar with these basics so we can move on to more exciting things!**
 
+<<<<<<< HEAD
 <!---
 what is python
 what is pandas
@@ -34,44 +35,20 @@ R/pyhon/SAS/Excel
 =======
 >>>>>>> b028d451e46b358af2c8676b6ed9307f93255f87
 ## Day 1
+- What is Python?
+- Basic Python syntax
+- Under the Hood
+- Anaconda Introduction
+- Python Editor Choices
+- HANDS ON Jupyter Notebook
+- Data Analysis Choices
 
-### The data analysis landscape (30 minutes)
-
-- We have lots of tools and software to choose from to use on a daily basis for our work. Are we choosing the best tool for the job?
-- Where does Python fit in?
-- How does Python fit in with things that I already use and my clients and coworkers use?
-
-#### Presentation
-
-#### More Resources
-- <https://medium.freecodecamp.org/which-languages-should-you-learn-for-data-science-e806ba55a81f>
-- <https://qz.com/1063071/the-great-r-versus-python-for-data-science-debate/>
-
-### Python and other programming languages (10 minutes)
-- What can Python do?
-- What's special about Python?
-
-#### Presentation
-
-#### More Resources
-
-### Python on my computer (15 minutes)
-- Why do I need Anaconda?
-- Where is everything saved?
-- How do I run a script?
-- What is the shell?
-- Do I have Anaconda installed propoerly? (Please do this before you come!)
-
-### Get running with Python (45 minutes) 
-- Introduction to Jupyter Notebooks and other editors
-- Python basics and using python for every day work
 
 ### Extra References for Day 1
-- List of Python Editors
-- More tutorials
-- Working with environments and packages in Anaconda
-https://learnxinyminutes.com/docs/python3/
-
+- https://learnxinyminutes.com/docs/python3/
+- <https://medium.freecodecamp.org/which-languages-should-you-learn-for-data-science-e806ba55a81f>
+- <https://qz.com/1063071/the-great-r-versus-python-for-data-science-debate/>
+<!---
 ## Day 2
 
 ### Using Pandas (30 minutes)
