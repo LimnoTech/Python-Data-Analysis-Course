@@ -39,8 +39,6 @@ Based on the survey, many of you have Python experience and nearly all have some
 - https://learnxinyminutes.com/docs/python3/
 - <https://medium.freecodecamp.org/which-languages-should-you-learn-for-data-science-e806ba55a81f>
 - <https://qz.com/1063071/the-great-r-versus-python-for-data-science-debate/>
-<!---
-## Day 2
 
 ### Day 2
 - Data Analysis in Python
@@ -54,4 +52,3 @@ Based on the survey, many of you have Python experience and nearly all have some
 ### Extra References for Day 2
 Coming shortly!
 
---->
