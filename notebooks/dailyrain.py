@@ -29,4 +29,6 @@ ax.grid()
 
 plt.tight_layout()  #Makes the plot fill the page and fix spacing
 
-plt.savefig("Output_data/dailyrain.png",dpi=600)
+plt.show()
+
+#plt.savefig("Output_data/dailyrain.png",dpi=600)

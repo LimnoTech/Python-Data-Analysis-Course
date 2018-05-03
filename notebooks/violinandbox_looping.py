@@ -39,3 +39,4 @@ for i in range(4):
     
     plt.tight_layout
     plt.savefig("Output_data/violin_box{}.png".format(i+1),dpi=600)
+print("hello")
