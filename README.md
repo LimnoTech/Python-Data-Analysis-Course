@@ -39,17 +39,16 @@ Based on the survey, many of you have Python experience and nearly all have some
 - https://learnxinyminutes.com/docs/python3/
 - <https://medium.freecodecamp.org/which-languages-should-you-learn-for-data-science-e806ba55a81f>
 - <https://qz.com/1063071/the-great-r-versus-python-for-data-science-debate/>
-<!---
-## Day 2
 
-### Using Pandas (30 minutes)
-- What is Pandas?
-- Pandas workflow: Excel/Text/Web/Raw data -> Pandas Dataframe -> Do "something" -> export to Excel/text/web/visualizaton/interactive
-- Common Pandas commands
-
-### Matplotlib and other visulizations (30 minutes)
-
-### Example Projects (30 minutes)
+### Day 2
+- Data Analysis in Python
+- Pandas Basics
+- HANDS ON Intro to Pandas
+- Matplotlib Basics
+- HANDS ON Intro to Matplotlib
+- HANDS ON Start-to-finish exercise
+- Other Python modules and projects
 
 ### Extra References for Day 2
---->
+Coming shortly!
+
